@@ -4,7 +4,9 @@ Last Update: 2022-09-11
 ----------
 # PRJDB13760
 
-Scripts used for [Urban microbiomes in Japan in 2021](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136)
+Scripts used for Urban microbiomes in Japan in 2021.
+
+Raw sequencing reads (Run: [DRR403243](https://ddbj.nig.ac.jp/resource/sra-run/DRR403243)) have been deposited in the DDBJ Sequence Read Archive (DRA) under the BioProject accession number [PRJDB14136](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136), under the umbrella BioProject accession number [PRJDB13760](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB13760).
 
 ----------
 ## scripts
@@ -51,3 +53,9 @@ Computational resources were provided by the Data Integration and Analysis Facil
 https://biaswiki.nibb.ac.jp/menu/index.php
 
 ----------
+
+
+
+
+
+
