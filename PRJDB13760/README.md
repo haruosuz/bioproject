@@ -5,8 +5,7 @@ Last Update: 2022-09-11
 
 # PRJDB13760
 
-Scripts used for Urban microbiomes in Japan in 2021
-https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136
+Scripts used for [Urban microbiomes in Japan in 2021](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136)
 
 ----------
 
