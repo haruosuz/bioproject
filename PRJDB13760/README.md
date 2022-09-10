@@ -18,7 +18,7 @@ scripts/pbs.metaphlan3.sh
 ## fastp
 - https://github.com/OpenGene/fastp
 
-Running `fastp` program on paired end data (gzip compressed FASTQ) with:
+Run `fastp` program on paired end data (gzip compressed FASTQ) with:
 ```
 qsub pbs.fastp.sh
 ```
@@ -28,9 +28,20 @@ qsub pbs.fastp.sh
 - https://huttenhower.sph.harvard.edu/metaphlan/
 - https://github.com/biobakery/biobakery/wiki/metaphlan3
 
-Running MetaPhlAn 3.0 using:
+Run MetaPhlAn 3.0 using:
 ```
 qsub pbs.metaphlan3.sh
+```
+
+----------
+## pavian
+- https://github.com/fbreitwieser/pavian
+
+Pavian was used for visualizing metagenomics classification results from MetaPhlAn.
+
+Run Pavian from R by typing:
+```
+pavian::runApp(port=5000)
 ```
 
 ----------
