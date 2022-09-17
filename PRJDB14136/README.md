@@ -4,11 +4,13 @@ Last Update: 2022-09-14
 ----------
 # PRJDB14136
 
+Urban microbiomes in Japan in 2021
+https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136
+
 This repository contains the code and scripts to run the bioinformatics tools, 
 [fastp](#fastp), 
 [metaphlan](#metaphlan), 
-[pavian](#pavian), 
-for the analyses of urban microbiomes in Japan in 2021.
+[pavian](#pavian).
 
 The raw sequencing reads have been deposited in the DDBJ Sequence Read Archive (DRA) under the accession number [DRR403243](https://ddbj.nig.ac.jp/resource/sra-run/DRR403243). 
 The sample information is available under the DDBJ BioSample accession number [SAMD00520086](https://ddbj.nig.ac.jp/resource/biosample/SAMD00520086). 
@@ -57,7 +59,4 @@ Computational resources were provided by the Data Integration and Analysis Facil
 https://biaswiki.nibb.ac.jp/menu/index.php
 
 ----------
-
-https://www.ncbi.nlm.nih.gov/bioproject/?term=metasub
-
 
