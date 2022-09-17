@@ -16,7 +16,6 @@ conda activate base
 
 # To activate this environment, use
 conda activate metaphlan3
-#metaphlan -h
 
 #paired-end
 database_folder=/home/haruo/tools/my_metaphlan/metaphlan_databases/
