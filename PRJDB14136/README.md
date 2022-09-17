@@ -12,10 +12,6 @@ This repository contains the code and scripts to run the bioinformatics tools,
 [metaphlan](#metaphlan), 
 [pavian](#pavian).
 
-The raw sequencing reads have been deposited in the DDBJ Sequence Read Archive (DRA) under the accession number [DRR403243](https://ddbj.nig.ac.jp/resource/sra-run/DRR403243). 
-The sample information is available under the DDBJ BioSample accession number [SAMD00520086](https://ddbj.nig.ac.jp/resource/biosample/SAMD00520086). 
-The project information is available under the DDBJ BioProject accession number [PRJDB14136](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136), under the umbrella BioProject accession number [PRJDB13760](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB13760).
-
 ----------
 ## [scripts](https://github.com/haruosuz/bioproject/tree/main/PRJDB14136/scripts)
 
@@ -51,6 +47,13 @@ Run Pavian from R by typing:
 ```
 pavian::runApp(port=5000)
 ```
+
+----------
+## Data availability
+
+The raw sequencing reads have been deposited in the DDBJ Sequence Read Archive (DRA) under the accession number [DRR403243](https://ddbj.nig.ac.jp/resource/sra-run/DRR403243). 
+The sample information is available under the DDBJ BioSample accession number [SAMD00520086](https://ddbj.nig.ac.jp/resource/biosample/SAMD00520086). 
+The project information is available under the DDBJ BioProject accession number [PRJDB14136](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136), under the umbrella BioProject accession number [PRJDB13760](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB13760).
 
 ----------
 ## Acknowledgments
