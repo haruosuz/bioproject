@@ -20,7 +20,7 @@ conda activate metaphlan3
 
 #paired-end
 database_folder=/home/haruo/tools/my_metaphlan/metaphlan_databases/
-MYDIR=/home/haruo/projects/people/shiwa/2022-03-07_tani8020/data
+MYDIR=/home/haruo/projects/data
 for i in ${MYDIR}/*_R1.fq.gz; do
  NAME=$(basename $i _R1.fq.gz)
  zcat ${i%_R1.fq.gz}_R?.fq.gz > ${NAME}.fq

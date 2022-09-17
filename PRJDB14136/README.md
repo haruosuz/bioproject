@@ -4,19 +4,21 @@ Last Update: 2022-09-14
 ----------
 # PRJDB14136
 
-The code and scripts to run the bioinformatics tools (fastp, metaphlan, pavian) for urban microbiomes in Japan in 2021.
+The code and scripts to run the bioinformatics tools, 
+[fastp](#fastp), 
+[metaphlan](#metaphlan), 
+[pavian](#pavian), 
+for urban microbiomes in Japan in 2021.
 
 The raw sequencing reads have been deposited in the DDBJ Sequence Read Archive (DRA) under the accession number [DRR403243](https://ddbj.nig.ac.jp/resource/sra-run/DRR403243). 
 The sample information is available under the DDBJ BioSample accession number [SAMD00520086](https://ddbj.nig.ac.jp/resource/biosample/SAMD00520086). 
 The project information is available under the DDBJ BioProject accession number [PRJDB14136](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB14136), under the umbrella BioProject accession number [PRJDB13760](https://ddbj.nig.ac.jp/resource/bioproject/PRJDB13760).
 
 ----------
-## scripts
+## [scripts](https://github.com/haruosuz/bioproject/tree/main/PRJDB14136/scripts)
 
-```
-scripts/pbs.fastp.sh
-scripts/pbs.metaphlan3.sh
-```
+[scripts/pbs.fastp.sh](https://github.com/haruosuz/bioproject/blob/main/PRJDB14136/scripts/pbs.fastp.sh)
+[scripts/pbs.metaphlan3.sh](https://github.com/haruosuz/bioproject/blob/main/PRJDB14136/scripts/pbs.metaphlan3.sh)
 
 ----------
 ## fastp
@@ -28,7 +30,7 @@ qsub pbs.fastp.sh
 ```
 
 ----------
-## metaphlan3
+## metaphlan
 - https://huttenhower.sph.harvard.edu/metaphlan/
 - https://github.com/biobakery/biobakery/wiki/metaphlan3
 
