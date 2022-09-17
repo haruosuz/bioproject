@@ -17,8 +17,8 @@ The project information is available under the DDBJ BioProject accession number 
 ----------
 ## [scripts](https://github.com/haruosuz/bioproject/tree/main/PRJDB14136/scripts)
 
-[scripts/pbs.fastp.sh](https://github.com/haruosuz/bioproject/blob/main/PRJDB14136/scripts/pbs.fastp.sh)
-[scripts/pbs.metaphlan3.sh](https://github.com/haruosuz/bioproject/blob/main/PRJDB14136/scripts/pbs.metaphlan3.sh)
+- [scripts/pbs.fastp.sh](https://github.com/haruosuz/bioproject/blob/main/PRJDB14136/scripts/pbs.fastp.sh)
+- [scripts/pbs.metaphlan3.sh](https://github.com/haruosuz/bioproject/blob/main/PRJDB14136/scripts/pbs.metaphlan3.sh)
 
 ----------
 ## fastp
