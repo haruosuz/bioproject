@@ -8,9 +8,6 @@ set -o pipefail
 
 cd ${PBS_O_WORKDIR}
 
-echo; echo "-num_threads $(getconf _NPROCESSORS_ONLN)"
-echo; echo "ncpus ${NCPUS}"; #PBS -l ncpus=40
-
 # start
 echo; echo "[$(date)] $0 job has been started."
 
